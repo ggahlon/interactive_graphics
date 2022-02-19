@@ -1,1 +1,1 @@
-# interactive_graphics
+# This repository is for Dr. Caffo's Data Science for Public Health I 2022 course. The repository contains an empty .nojekyll file and an HTML file, which holds the interactive graphics for Homework #4.
